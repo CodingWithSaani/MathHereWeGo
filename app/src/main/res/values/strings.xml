@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MathHereWeGo</string>
+    <string name="enter_the_first_value">Enter the first value</string>
+
+    <string name="enter_the_second_value">Enter the second value</string>
+    <string name="result">Result:</string>
+
+    <string name="add">Add</string>
+    <string name="resultFinal">Result is:</string>
+    <string name="plz_enter_value_one">Please enter the first value</string>
+    <string name="plz_enter_value_two">Please enter second value</string>
+</resources>
